@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "230558393727",
+    "firebase_url": "https://quaiz-ba53b.firebaseio.com",
+    "project_id": "quaiz-ba53b",
+    "storage_bucket": "quaiz-ba53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230558393727:android:ef785bb411110e1e78664a",
+        "android_client_info": {
+          "package_name": "com.example.quaiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230558393727-574tkiurp8f9v89tqd5r0dn6o4lo9luv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxyXDpmpYoYe3_TcoLIRJneusww8ZAGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230558393727-574tkiurp8f9v89tqd5r0dn6o4lo9luv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8336671970563410~7024965395"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230558393727:android:024bcea3b025722678664a",
+        "android_client_info": {
+          "package_name": "com.example.quaizappadmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230558393727-574tkiurp8f9v89tqd5r0dn6o4lo9luv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxyXDpmpYoYe3_TcoLIRJneusww8ZAGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230558393727-574tkiurp8f9v89tqd5r0dn6o4lo9luv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
